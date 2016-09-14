@@ -1,2 +1,3 @@
 # TestGit
 testing new git
+новая запись с локального компа
