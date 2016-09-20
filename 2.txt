@@ -2,3 +2,4 @@
 testing new git
 новая запись с локального компа
 When the merge resolves as a fast-forward, only update the branch pointer, without creating a merge commit. This is the default behavior.
+#
